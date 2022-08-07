@@ -1051,7 +1051,7 @@ position: relative;
 
 .input-icon{
 position: absolute;
-left: -125px; 
+left: 15px; 
 top: 50%;
 transform: translateY(-50%);
     
